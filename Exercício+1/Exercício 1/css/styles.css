@@ -1,0 +1,69 @@
+body {
+	font-family: arial;
+}
+ul {
+list-style: none;
+padding: 0px;
+}
+
+a {
+color: #484848;
+line-height: 30px;
+font-size: 18px;
+}
+
+
+  
+.navigation {
+      background-color: #ff7212;
+      color: white;
+      margin-left: 100px;
+      margin-right: 0px;
+}     
+
+.navigation h1 {
+      margin-left: 20px;
+
+}
+
+
+
+.titulo-artigo {
+      margin-left: 120px;
+}
+
+.titulo-artigo h1 {
+      font-size: 48px
+}
+.titulo-artigo h2 {
+      font-size: 14px;
+      font-weight: normal;
+      line-height: 5px;
+}
+
+
+
+
+.content {
+      margin-left: 120px;
+      margin-right: 480px;
+      color: #484848;
+      margin-bottom: 100px;
+      margin-top: 50px;
+      line-height: 30px;
+
+}
+
+.content img {
+      width: 600px;
+      margin-top: 30px;
+
+}
+.content figcaption {
+      font-size: 12px;
+      margin-bottom: 30px;
+}
+
+.content h3 {
+      margin-top: 50px;
+}
